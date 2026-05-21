@@ -1,19 +1,19 @@
 # TravelGo - Travel Booking System 
  
-## ?? Overview 
+##Overview 
  
 A full-stack travel booking system built with Spring Boot backend and React frontend, using PostgreSQL for database management. 
  
 ## ? Features 
  
-- ?? User Authentication (Login/Register) 
-- ??? Tour Booking Management 
-- ?? Payment Processing 
-- ?? Activity Logging 
-- ?? Client Dashboard 
-- ??? Admin Panel 
+- User Authentication (Login/Register) 
+- Tour Booking Management 
+- Payment Processing 
+- Activity Logging 
+- Client Dashboard 
+- Admin Panel 
  
-## ??? Tech Stack 
+##Tech Stack 
  
 **Backend:** 
 - Java Spring Boot 
@@ -27,7 +27,7 @@ A full-stack travel booking system built with Spring Boot backend and React fron
 - PostgreSQL 
 - pgAdmin 4 
  
-## ?? How to Run This Project 
+##How to Run This Project 
  
 ### Prerequisites 
 - Java 11+ 
@@ -48,17 +48,17 @@ A full-stack travel booking system built with Spring Boot backend and React fron
 2. Run the `database/migration.sql` file in pgAdmin 4 to create tables 
 3. Update `backend/src/main/resources/application.properties` with your database credentials 
  
-## ?? Project Structure 
+##Project Structure 
  
 ``` 
 travel-app/ 
-ÃÄÄ backend/         # Spring Boot backend 
-ÃÄÄ client/          # React frontend 
-ÃÄÄ database/        # SQL migration files 
-ÀÄÄ README.md        # This file 
+ÃƒÃ„Ã„ backend/         # Spring Boot backend 
+ÃƒÃ„Ã„ client/          # React frontend 
+ÃƒÃ„Ã„ database/        # SQL migration files 
+Ã€Ã„Ã„ README.md        # This file 
 ``` 
  
-## ????? Author 
+##Author 
  
 **Titus** 
  
